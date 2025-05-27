@@ -32,3 +32,46 @@ Setup and requirements
  7. Examine model behavior
  8. Evaluate the model
 
+---
+## Screenshots :
+
+Computer Engine > VM instances
+
+![Alt Text](assets/computeEngine-VMinstance.png)
+
+---
+ssh connection
+
+![Alt Text](assets/terminal.png)
+
+---
+Create the cluster
+
+![Alt Text](assets/ssh.png)
+
+
+ ---
+googleCloud > allProducts > analyticsProducts > dataproc
+ 
+![Alt Text](assets/googleCloud-allProducts-analyticsProducts-dataproc.png)
+
+---
+![Alt Text](assets/dataproc-overview.png)
+
+---
+
+Check and open the cluster created
+
+![Alt Text](assets/clusters-1.png)
+
+---
+![Alt Text](assets/clusters-available.png)
+
+---
+Open JupyterLab
+
+![Alt Text](assets/clusters.png)
+
+
+
+
